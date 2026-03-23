@@ -1,7 +1,9 @@
 MINI PROJECT: Health Data Dashboard Challenge (Visualizing Demographic and Health Trends of USA)
 Objective: To develop an interactive dashboard that presents key demographic, disease, and health trends in a clear, engaging, and interpretable way for non-statisticians.
-Data Sources 
-Population Pyramid Data 
+Data Sources
+
+Population Pyramid Data
+
 -<a href="https://www.populationpyramid.net/united-states-of-america/2025/">Population Pyramid Data 2025</a>
 -<a href="https://www.populationpyramid.net/united-states-of-america/2024/">Population Pyramid Data 2024</a>
 -<a href="https://www.populationpyramid.net/united-states-of-america/2023/">Population Pyramid Data 2023</a> 
