@@ -35,7 +35,7 @@ Epidemiologic Dashboard Data
 
 -<a href="https://gis.cdc.gov/grasp/diabetes/diabetesatlas-statsreport.html">Epidemiologic Dashboard Data<a/>
 
-Steps:
+Tasks:
 
 •Obtain publicly available demographic/medical/health data (e.g., WHO, World Bank, national health ministry data, published reports, papers).
 
